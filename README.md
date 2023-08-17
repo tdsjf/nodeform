@@ -11,7 +11,7 @@ Necessário instalação do node js em: https://nodejs.org/en/download
 
 3) Baixar os 3 componentes:
 
-   npm install express body-parser sqlite3 --build-from-source
+   npm install express body-parser sqlite3
 
 4) Para rodar a aplicação será necessário executar o comando:
 
