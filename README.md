@@ -16,3 +16,10 @@ Necessário instalação do node js em: https://nodejs.org/en/download
 4) Para rodar a aplicação será necessário executar o comando:
 
    node server.js
+
+OBS:
+"dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
